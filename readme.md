@@ -25,11 +25,10 @@ var rightSidebarjs = new SidebarJS('navbar', {
 ```
 
 ## Implementation - Superfast explanation
-**sidebarjs.css**と**sidebar.js**を読み込んでください。(minファイルにしたほうがいい)  
-サイドバーのDIVタグにIDを設定して、トグルボタンは設定したID+"-toggle"にしてください。  
-[id="DOM"],[id="DOM-toggle"]  
-All contents you will write inside tag[sidebarjs] will be rendered inside the sidebar.  
-Then simply init it with **new SidebarJS("#DOM")** and you are ready!
+Insert **sidebarjs.css** and **sidebarjs.js** in your index.html file and create a tag (div, aside or what you prefer) with the attribute **[sidebarjs]**.
+All contents you will write inside tag[sidebarjs] will be rendered inside the sidebar.
+For open/close the sidebar, put wherever you want the **[sidebarjs-toggle]** attribute.
+Then simply init it with **new SidebarJS("sidebarjs")** and you are ready!
 
 ## Implementation - Explanation step by step
 ### Download files
