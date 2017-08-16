@@ -1,0 +1,19 @@
+{
+  "name": "sidebar",
+  "version": "1.0.0",
+  "description": "Create sidebar/sidenav",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuro56900/sidebar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuro <kuro56900@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuro56900/sidebar/issues"
+  },
+  "homepage": "https://github.com/kuro56900/sidebar#readme"
+}
