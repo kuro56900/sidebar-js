@@ -2,7 +2,7 @@
 Create sidebar/sidenav experiance in pure javascript.
 
 ```ssh
-npm install sidebarjs --save
+npm install sidebar-js --save
 ```
 
 ## Options
